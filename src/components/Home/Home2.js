@@ -16,19 +16,18 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              MEU <span className="purple"> CAMINHO </span> PROFISSIONAL
             </h1>
             <p className="home-about-body">
-              I am fluent in classics like
+              Eu sou um junior, desenvolvedor de softwares e mobile, atualmente trabalhando com
               <i>
-                <b className="purple"> C++ and Python. </b>
+                <b className="purple"> React e Flutter. </b>
               </i>
               <br />
               <br />
-              I debug more than I code.
+              Pode encontrar todos os meus projectos no meu github
               <br />
               <br />
-              My pronouns are <i><b>Jack of All Trades / Master of none</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -41,7 +40,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Onde me encontrar online</h1>
             <p>
-              Esteja a vontade para entrar em<span className="purple">Contacto </span>comigo
+              Esteja a vontade para entrar em <span className="purple">Contacto </span>comigo
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -56,7 +55,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/W4fng"
+                  href="https://twitter.com/held3rio"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

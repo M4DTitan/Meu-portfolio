@@ -45,5 +45,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "exeit",
+  "main": "index.js",
+  "repository": "https://github.com/M4DTitan/Meu-portfolio.git",
+  "author": "M4DTitan <Held3riowafunga17@icloud.com>",
+  "license": "MIT"
 }

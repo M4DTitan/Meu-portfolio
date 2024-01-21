@@ -10,15 +10,11 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Olá mundo <span className="purple">Heldério Wafunga </span>
             Dev júnior de <span className="purple"> Angola.</span>
-            <br /> Minha experiência se concentra principalmente no uso das tecnologias Flutter e Firebase para criar aplicativos móveis e web que entregam experiências excepcionais aos usuários. Como alguém que busca constantemente aprimorar minhas habilidades, estou sempre atualizado com as últimas tendências e melhores práticas nesses domínios em constante evolução.
-Minha abordagem para o desenvolvimento de software é centrada no usuário. Acredito que a usabilidade e a experiência do usuário são elementos cruciais para o sucesso de qualquer aplicativo. Trabalho incansavelmente para garantir que meus aplicativos sejam não apenas funcionais, mas também altamente intuitivos e agradáveis de usar.
-
-Minha experiência se estende além do desenvolvimento de aplicativos e abrange várias áreas complementares. Tenho profundos conhecimentos em design de interface de usuário (UI) e experiência do usuário (UX), o que me permite criar interfaces atraentes e eficientes. Além disso, sou especialista em integração de APIs, garantindo que meus aplicativos possam se conectar perfeitamente a serviços e recursos externos para fornecer funcionalidades avançadas.
-
-O gerenciamento de bancos de dados também faz parte do meu conjunto de habilidades. Com a capacidade de projetar e administrar bancos de dados eficazes, posso garantir que os aplicativos que desenvolvo armazenem e recuperem dados de maneira eficiente e segura.
-
-Meu compromisso com a excelência e a aprendizagem contínua me impulsiona a enfrentar desafios complexos de desenvolvimento com determinação e criatividade. Estou sempre aberto a novas oportunidades de aprendizado e colaboração, e estou ansioso para contribuir para projetos inovadores que explorem os limites da tecnologia.
-            <br />
+            <br /> M👋 Saudações, sou Heldério Wafunga, mas me chamam de Heldério.
+👨‍💻 Com mais de 3 anos de experiência, sou um entusiasta no desenvolvimento de soluções de software que buscam a excelência. Minha jornada envolve a construção de aplicativos móveis e web, com expertise em tecnologias como Flutter e Firebase, que possibilitam a criação de soluções intuitivas e eficientes.
+📚 Atualmente, estou imerso no desafiante mundo da Engenharia Informática, um curso que aprimora ainda mais minha compreensão da tecnologia e como ela molda nosso mundo. Essa formação acadêmica complementa minhas experiências práticas e me capacita a enfrentar desafios técnicos de maneira mais sólida.
+💡 Meu coração bate mais forte pelo desenvolvimento Front-end, especialmente com tecnologias como React e VueJS. Além disso, tenho um profundo interesse em UI/UX Design, acreditando que a beleza e a usabilidade são fundamentais para criar experiências excepcionais.
+🚀 Todos os dias, meu objetivo é superar o que fiz ontem, buscando constantemente aprimorar minhas habilidades e conhecimento, e aplicá-los em cada projeto para elevar o padrão e proporcionar experiências incríveis aos usuários.  <br />
             Além do meu trabalho como desenvolvedor de software, também sou apaixonado por compartilhar conhecimentos e ajudar a comunidade de desenvolvedores a crescer. Sempre que possível, estou envolvido em iniciativas de educação, escrevendo artigos técnicos, ministrando workshops e participando de grupos de discussão.
             <br />
             <br />
